@@ -14,7 +14,7 @@ fun Escaleno(Base: Double, Altura: Double): Double {
     return (Base * Altura)/2
 }
 
-// Circunferência
+// Circuferência
 fun CalculoCircuferencia(raio: Double): Double{
     return (PI * raio * raio)
 }
