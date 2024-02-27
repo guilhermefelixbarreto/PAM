@@ -37,7 +37,7 @@ fun CalculoTrapezio(BaseMaior: Double, BaseMenor: Double, altura: Double): Doubl
 //Fim das Funções
 
 fun main() {
-    println("O que você deseja calcular?:")
+    println("O que você deseja calcular?")
 
     println("1 - Triângulo Equilátero")
     println("2 - Triângulo Isósceles")
