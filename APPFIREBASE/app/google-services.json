@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "458923694821",
+    "project_id": "aula-1-a3eee",
+    "storage_bucket": "aula-1-a3eee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458923694821:android:34bc9b353c39aae8cad20c",
+        "android_client_info": {
+          "package_name": "br.com.eteczonaleste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIlIMT3Ws6VCYaiz6MbHAokwMud1lKZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458923694821:android:e6e8b7126bb5b769cad20c",
+        "android_client_info": {
+          "package_name": "com.example.app_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwIlIMT3Ws6VCYaiz6MbHAokwMud1lKZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
